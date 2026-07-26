@@ -5,7 +5,7 @@ A hands-on learning portfolio focused on Microsoft Intune administration, endpoi
 ## Live Website
 
 🌐 **View the portfolio here:**
-https://chezersamonte.github.io/Microsoft-Intune-Administration-and-IT-Support/
+https://chezersamonte.github.io/Microsoft-Intune-Administration-and-Support/
 
 ## Overview
 
